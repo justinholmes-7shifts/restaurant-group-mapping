@@ -1,0 +1,52 @@
+# Restaurant Group Mapping - Git Ignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Data files (optional - uncomment if you don't want to commit large datasets)
+# data/input/*.csv
+# data/processed/*.csv
+
+# Results can be large - consider gitignoring if too big
+# results/*.json
+
+# Sensitive data
+credentials/
+secrets/
+*.key
+*.pem

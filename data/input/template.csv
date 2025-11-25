@@ -1,0 +1,4 @@
+restaurant_name,city,state,url,notes
+Example Restaurant,Toronto,ON,https://example.com,Optional notes about the restaurant
+Joe's Pizza,Toronto,ON,,Independent pizzeria
+The Keg Steakhouse,Toronto,ON,https://kegsteakhouse.com,Part of Keg Restaurants Ltd
