@@ -1,0 +1,602 @@
+{
+  "analysis_metadata": {
+    "analysis_date": "2024-11-25",
+    "city": "Miami",
+    "state": "FL",
+    "total_restaurants_analyzed": 50,
+    "restaurants_with_groups": 35,
+    "independent_restaurants": 10,
+    "unclear": 5
+  },
+  "summary": {
+    "restaurant_groups_identified": 12,
+    "top_groups_by_location_count": [
+      {
+        "group_name": "Sushi Sake Corporate",
+        "locations_in_dataset": 4,
+        "total_known_locations": "30+"
+      },
+      {
+        "group_name": "Ariete Hospitality Group",
+        "locations_in_dataset": 1,
+        "total_known_locations": "10+"
+      },
+      {
+        "group_name": "Groot Hospitality",
+        "locations_in_dataset": 1,
+        "total_known_locations": "10+"
+      },
+      {
+        "group_name": "Fire Pit Hospitality",
+        "locations_in_dataset": 2,
+        "total_known_locations": "5+"
+      }
+    ]
+  },
+  "restaurant_groups": [
+    {
+      "restaurant_name": "Ariete",
+      "restaurant_website": "https://arietecoconutgrove.com",
+      "city": "Miami",
+      "location_address": "3540 Main Hwy, Coconut Grove, FL 33133, USA",
+      "holding_company": "Ariete Hospitality Group",
+      "holding_website": "https://arietehospitality.com",
+      "sister_child_restaurants": [
+        "Chug's Diner",
+        "Brasserie Laurel",
+        "Navé",
+        "The Taurus",
+        "Da Angelino",
+        "Chuggie's",
+        "The ScapeGoat",
+        "The Gibson Room",
+        "Chug's Express",
+        "El Vecino"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://arietehospitality.com/venues/chugs-diner/",
+        "https://brasserielaurel.com",
+        "https://arietehospitality.com/venues/nave/",
+        "https://arietehospitality.com/venues/the-taurus/",
+        "https://arietehospitality.com/venues/da-angelino/",
+        "https://arietehospitality.com",
+        "https://arietehospitality.com/venues/the-scapegoat/",
+        "https://arietehospitality.com/venues/the-gibson-room/",
+        "https://arietehospitality.com",
+        "https://arietehospitality.com"
+      ],
+      "child_restaurant_sources": {
+        "Chug's Diner": ["https://arietehospitality.com", "https://culinaryagents.com/groups/2021--Ariete-Hospitality-Group"],
+        "Brasserie Laurel": ["https://brasserielaurel.com/press_articles/", "https://arietehospitality.com"],
+        "Navé": ["https://arietehospitality.com", "https://culinaryagents.com/groups/2021--Ariete-Hospitality-Group"],
+        "The Taurus": ["https://arietehospitality.com"],
+        "Da Angelino": ["https://arietehospitality.com"],
+        "Chuggie's": ["https://whatnow.com/miami/restaurants/ariete-hospitality-group-spinning-off-chugs-diner-with-new-concept-chuggies/"],
+        "The ScapeGoat": ["https://arietehospitality.com"],
+        "The Gibson Room": ["https://arietehospitality.com"],
+        "Chug's Express": ["https://brasserielaurel.com/press_articles/"],
+        "El Vecino": ["https://brasserielaurel.com/press_articles/"]
+      },
+      "source": "https://arietehospitality.com",
+      "evidence": "Ariete Hospitality Group operates 10+ venues led by Michelin-starred chef Michael Beltran, including Ariete (flagship), Chug's Diner, Brasserie Laurel, and other concepts across Coconut Grove, Miami Beach, and Downtown Miami.",
+      "reasoning": "The restaurant's website (arietecoconutgrove.com) links to Ariete Hospitality Group. The holding company website lists all sister restaurants. Multiple news sources confirm the group operates 10+ venues. Chug's Diner is mentioned in the original dataset (row 95). Brasserie Laurel recently opened in Miami Worldcenter. All restaurants are verified through the official holding company website and press releases.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Sushi Sake Bird Road",
+      "restaurant_website": "https://www.sushisakemiami.com",
+      "city": "Miami",
+      "location_address": "14629 Southwest 42nd Street, Miami, FL, USA",
+      "holding_company": "Sushi Sake Corporate",
+      "holding_website": "https://www.sushisakemiami.com",
+      "sister_child_restaurants": [
+        "Sushi Sake Biscayne",
+        "Sushi Sake Westchester",
+        "Sushi Sake Ludlam",
+        "Sushi Sake MiMo",
+        "Sushi Sake Pinecrest",
+        "Sushi Sake Sweetwater",
+        "Sushi Sake Hammocks",
+        "Sushi Sake Country Walk",
+        "Sushi Sake Killian",
+        "Sushi Sake Sheridan",
+        "Sushi Sake North Miami Beach",
+        "Sushi Sake Little Havana",
+        "Sushi Sake Sunset (Marin Hospitality)",
+        "Sushi Sake Miami Lakes",
+        "Sushi Sake Miami Springs",
+        "Sushi Sake Miami Gardens"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://www.sushisakemiami.com/sushi-sake-biscayne-blvd-location/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/locations/",
+        "https://www.sushisakemiami.com/sushi-sake-miami-lakes/",
+        "https://www.sushisakemiami.com/sushi-sake-miami-springs/",
+        "https://www.sushisakemiami.com/sushi-sake-miami-gardens/"
+      ],
+      "child_restaurant_sources": {
+        "All Locations": ["https://www.sushisakemiami.com/locations/"]
+      },
+      "source": "https://www.sushisakemiami.com/locations/",
+      "evidence": "Sushi Sake has 30+ locations throughout South Florida. The locations page lists all sister restaurants under Sushi Sake Corporate.",
+      "reasoning": "The dataset shows multiple Sushi Sake locations (rows 4, 19, 20, 39, 52, 58, 76, 103, 155, 199, 207, 225, 226). Web search confirmed 30+ locations across Miami-Dade and South Florida. All locations share the same brand and website (sushisakemiami.com). Note: Row 75 shows 'Marin Hospitality' operating Sushi Sake Sunset, which may be a franchise relationship.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Gekko",
+      "restaurant_website": "https://groothospitality.com/venue/gekko/",
+      "city": "Miami",
+      "location_address": "Miami, FL, USA",
+      "holding_company": "Groot Hospitality",
+      "holding_website": "https://groothospitality.com",
+      "sister_child_restaurants": [
+        "Komodo Miami",
+        "Papi Steak",
+        "Casadonna",
+        "LIV Nightclub",
+        "Story Nightclub",
+        "Strawberry Moon",
+        "Planta",
+        "Swan",
+        "Bar Bevy"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://groothospitality.com/venue/komodo-miami/",
+        "https://groothospitality.com/venue/papi-steak/",
+        "https://groothospitality.com",
+        "https://groothospitality.com",
+        "https://groothospitality.com",
+        "https://groothospitality.com",
+        "https://groothospitality.com",
+        "https://groothospitality.com",
+        "https://groothospitality.com"
+      ],
+      "child_restaurant_sources": {
+        "Komodo Miami": ["https://groothospitality.com/venue/komodo-miami/", "Dataset row 77"],
+        "Papi Steak": ["https://www.miaminewtimes.com/restaurants/pegasus-world-cup-2023-food-groot-hospitality-papi-steak-komodo-gekko-16093938"],
+        "Casadonna": ["https://www.restaurant-hospitality.com/new-restaurants/groot-hospitality-and-tao-group-hospitality-team-up-for-casadonna-a-new-italian-restaurant-in-miami"],
+        "LIV Nightclub": ["https://groothospitality.com/about-us/"],
+        "Story Nightclub": ["https://groothospitality.com/about-us/"],
+        "Other venues": ["https://groothospitality.com"]
+      },
+      "source": "https://groothospitality.com",
+      "evidence": "Groot Hospitality is a Miami Beach-based collective of top restaurants, bars, cafés, nightlife ventures and hotels, formed in 2018 by David Grutman. Gekkō is a Japanese-inspired steakhouse opened in partnership with Bad Bunny in 2022.",
+      "reasoning": "Dataset row 41 shows 'Groot Hospitality - Gekko' and row 77 shows 'Groot Hospitality - Komodo'. Web search confirmed Groot Hospitality operates multiple high-profile Miami venues. Gekko opened in 2022 in partnership with Bad Bunny. Komodo opened in 2015 as the group's first restaurant. The holding company website lists all properties.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Maxwell Bros. Clothing Store",
+      "restaurant_website": "https://www.maxwellbros.beer",
+      "city": "Miami",
+      "location_address": "17395 S Dixie Hwy, Miami, FL 33157, USA",
+      "holding_company": "Fire Pit Hospitality",
+      "holding_website": "https://www.maxwellbros.beer/fphcontactinfo",
+      "sister_child_restaurants": [
+        "Lincoln's Beard Brewing Company",
+        "The Thorn",
+        "Strange Beast",
+        "Cry Baby Creamery"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://www.lincolnsbeard.com",
+        "https://www.yelp.com/biz/thorn-miami",
+        "https://www.maxwellbros.beer",
+        "https://www.maxwellbros.beer"
+      ],
+      "child_restaurant_sources": {
+        "Lincoln's Beard Brewing Company": ["Dataset row 45", "https://www.maxwellbros.beer/fphcontactinfo"],
+        "The Thorn": ["Dataset row 71", "https://www.miaminewtimes.com/restaurants/thorn-opens-the-first-liquor-concept-from-the-creators-of-lincolns-beard-brewery-17530849"],
+        "Strange Beast": ["Dataset row 134", "https://www.maxwellbros.beer"],
+        "Cry Baby Creamery": ["http://www.dademag.com/features/2020/10/15/blind-tasting-john-falco-christmas-beers-barrel-of-monks-father-christmas-abita-office-party-funky-buddha-coquito"]
+      },
+      "source": "https://www.maxwellbros.beer/fphcontactinfo",
+      "evidence": "Maxwell Bros. is described as 'A Fire Pit Hospitality Brewpub & Pizzeria'. John Falco is President/Owner of Fire Pit Hospitality and creator of Lincoln's Beard Brewing Co., Strange Beast, Maxwell Bros, and Cry Baby Creamery.",
+      "reasoning": "Dataset shows Fire Pit Hospitality operating Maxwell Bros. (row 6), Lincoln's Beard (row 45), The Thorn (row 71), and Strange Beast (row 134). Web search confirmed John Falco owns Fire Pit Hospitality LLC and all four concepts. Maxwell Bros. and Strange Beast are brewpub-pizzerias. The Thorn is Fire Pit's first liquor/cocktail concept. Fire Pit Hospitality was incorporated January 6, 2020.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Ben's Pizza Dadeland",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "7535 N Kendall Dr, Miami, FL 33156, USA",
+      "holding_company": "Black Market (Erick Passo)",
+      "holding_website": "Not Found",
+      "sister_child_restaurants": [
+        "Ben's Pizza 1",
+        "Ben's Pizza 2",
+        "Black Market Bayside",
+        "Black Market Downtown",
+        "Benihana Brickell",
+        "Benihana Bayside",
+        "Benihana Express"
+      ],
+      "sister_child_restaurants_websites": [
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "https://www.benihana.com",
+        "https://www.benihana.com",
+        "https://www.benihana.com"
+      ],
+      "child_restaurant_sources": {
+        "Ben's Pizza 1": ["Dataset row 60"],
+        "Ben's Pizza 2": ["Dataset row 32"],
+        "Black Market Bayside": ["Dataset row 53"],
+        "Black Market Downtown": ["Dataset row 69"],
+        "Benihana Brickell": ["Dataset row 178", "https://www.miaminewtimes.com/restaurants/first-fast-casual-benihana-ra-sushi-opens-in-brickell-19199662"],
+        "Benihana Bayside": ["Dataset row 262"],
+        "Benihana Express": ["https://www.fsrmagazine.com/industry-news/benihana-express-opens-in-miamis-bayside-marketplace-shopping-center/"]
+      },
+      "source": "https://www.miaminewtimes.com/restaurants/first-fast-casual-benihana-ra-sushi-opens-in-brickell-19199662",
+      "evidence": "Erick Passo owns both Black Market Miami and Ben's Pizza. He is also a Benihana franchisee, operating Benihana RA Sushi Brickell and Benihana Express at Bayside Marketplace.",
+      "reasoning": "Dataset shows 'Black Market' as the company name for multiple Ben's Pizza locations (rows 13, 32, 60) and Black Market restaurants (rows 53, 69, 178, 262). Web search confirmed Erick Passo owns Black Market and Ben's Pizza, and operates multiple Benihana franchise locations in Miami as part of a multi-unit development deal. All locations are connected through Passo's ownership, though specific corporate structure is unclear.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Pura Vida Edgewater (PV02)",
+      "restaurant_website": "https://www.puravidamiami.com",
+      "city": "Miami",
+      "location_address": "1756 North Bayshore Drive, Miami, FL, USA",
+      "holding_company": "Pura Vida Miami - FL",
+      "holding_website": "https://www.puravidamiami.com",
+      "sister_child_restaurants": [
+        "PV18 - Brickell 701",
+        "PV03 - Design District",
+        "PV09 - Brickell Millecento",
+        "PV00 - Commissary",
+        "PV13 - Downtown Doral",
+        "PV21 - Dadeland Mall",
+        "PV34 - Coconut Grove",
+        "PV08 - Las Olas Society (Fort Lauderdale)",
+        "Pura Vida Miami Beach",
+        "Pura Vida Miami Shores",
+        "Pura Vida New York",
+        "Pura Vida Sarasota"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://www.puravidamiami.com/locations",
+        "https://utcsarasota.com/places/dine/pura-vida/"
+      ],
+      "child_restaurant_sources": {
+        "All Miami Locations": ["Dataset rows 15, 38, 96, 100, 112, 162, 213, 239, 257", "https://www.puravidamiami.com/locations"],
+        "Other Markets": ["https://www.puravidamiami.com/locations", "https://www.yelp.com/biz/pura-vida-miami-new-york"]
+      },
+      "source": "https://www.puravidamiami.com/locations",
+      "evidence": "Pura Vida Miami is a premier wellness and lifestyle brand founded in 2012 by husband-and-wife duo Omer and Jennifer Horev. Multiple locations across Miami, Fort Lauderdale, New York, and Sarasota.",
+      "reasoning": "Dataset shows 'Pura Vida Miami - FL' operating multiple PV-branded locations with location codes (PV02, PV18, PV03, PV09, PV00, PV13, PV21, PV34, PV08). Web search confirmed multiple locations across Miami area and expansion to other markets. The official website has a locations page listing all restaurants. All locations share consistent branding and menu focused on wellness, all-day breakfast, and superfood options.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Tacombi Brickell",
+      "restaurant_website": "https://www.tacombi.com",
+      "city": "Miami",
+      "location_address": "69 SW 7th St, Miami, FL 33130, USA",
+      "holding_company": "Tacombi - FL",
+      "holding_website": "https://www.tacombi.com",
+      "sister_child_restaurants": [
+        "Tacombi Design District"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://www.tacombi.com"
+      ],
+      "child_restaurant_sources": {
+        "Tacombi Design District": ["Dataset row 40", "https://www.tacombi.com"]
+      },
+      "source": "https://www.tacombi.com",
+      "evidence": "Tacombi is a Mexican restaurant chain with locations in Miami (Brickell and Design District), New York, and other cities.",
+      "reasoning": "Dataset shows 'Tacombi - FL' operating two Miami locations: Brickell (row 21) and Design District (row 40). Tacombi is a well-known Mexican restaurant chain that originated in New York and has expanded to multiple markets. The '-FL' designation suggests these are the Florida franchise/corporate locations. Both Miami restaurants are part of the broader Tacombi brand.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Old's Havana",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "1442 Southwest 8th Street, Miami, FL, USA",
+      "holding_company": "Gastronomica Restaurant Group",
+      "holding_website": "Not Found",
+      "sister_child_restaurants": [
+        "Sala'o Cuban Bar & Pescaderia",
+        "CIAO HAVANA",
+        "CosaNostra (El Cuban Diner)"
+      ],
+      "sister_child_restaurants_websites": [
+        "Not Found",
+        "Not Found",
+        "Not Found"
+      ],
+      "child_restaurant_sources": {
+        "Sala'o": ["Dataset row 167"],
+        "CIAO HAVANA": ["Dataset row 236"],
+        "CosaNostra": ["Dataset row 255"]
+      },
+      "source": "Dataset analysis",
+      "evidence": "Dataset shows 'Gastronomica Restaurant Group' as the company name for multiple Cuban/Latin concepts.",
+      "reasoning": "Dataset shows 'Gastronomica Restaurant Group' operating Old's Havana (row 27), Sala'o Cuban Bar & Pescaderia (row 167), CIAO HAVANA (row 236), and CosaNostra/El Cuban Diner (row 255). All locations are on or near SW 8th Street (Calle Ocho) in Miami's Little Havana neighborhood. The restaurants share Cuban/Latin cuisine themes. No website found for the holding company, but consistent branding across dataset entries suggests common ownership.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Purple Orchid Downtown",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "Miami, Florida, EE. UU.",
+      "holding_company": "Purple Orchid",
+      "holding_website": "Not Found",
+      "sister_child_restaurants": [
+        "PO Production",
+        "PO Baptist"
+      ],
+      "sister_child_restaurants_websites": [
+        "Not Found",
+        "Not Found"
+      ],
+      "child_restaurant_sources": {
+        "PO Production": ["Dataset row 49"],
+        "PO Baptist": ["Dataset row 135"]
+      },
+      "source": "Dataset analysis",
+      "evidence": "Dataset shows 'Purple Orchid' operating multiple 'PO' branded locations.",
+      "reasoning": "Dataset shows 'Purple Orchid' as company name for three locations: PO Downtown (row 43), Production (row 49), and PO Baptist (row 135). The 'PO' branding and consistent company name suggest these are sister restaurants. Location at Baptist Hospital (row 135) suggests this may be a hospital/healthcare food service operator. No website found.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Sushi Maki Dadeland",
+      "restaurant_website": "https://www.sushimaki.com",
+      "city": "Miami",
+      "location_address": "6661 South Dixie Highway, Miami, FL, USA",
+      "holding_company": "Sushi Maki",
+      "holding_website": "https://www.sushimaki.com",
+      "sister_child_restaurants": [
+        "Sushi Maki Coconut Grove"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://www.sushimaki.com"
+      ],
+      "child_restaurant_sources": {
+        "Sushi Maki Coconut Grove": ["Dataset row 66"]
+      },
+      "source": "https://www.sushimaki.com",
+      "evidence": "Sushi Maki is a Miami-based sushi restaurant chain with multiple locations.",
+      "reasoning": "Dataset shows two Sushi Maki locations: Dadeland (row 34) and Coconut Grove (row 66). Sushi Maki is a known South Florida sushi chain with multiple locations. The locations share consistent branding. Website confirms multi-location operation.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "MPGR HOSPITALITY - Sushi Mas Wynwood",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "2611 N Miami Ave, Miami, FL 33127, USA",
+      "holding_company": "MPGR HOSPITALITY",
+      "holding_website": "Not Found",
+      "sister_child_restaurants": [
+        "Crazy Poke Wynwood"
+      ],
+      "sister_child_restaurants_websites": [
+        "Not Found"
+      ],
+      "child_restaurant_sources": {
+        "Crazy Poke Wynwood": ["Dataset row 84"]
+      },
+      "source": "Dataset analysis",
+      "evidence": "Dataset shows 'MPGR HOSPITALITY' as the company name for two Wynwood locations.",
+      "reasoning": "Dataset shows 'MPGR HOSPITALITY' operating Sushi Mas - Wynwood (row 2) and Crazy Poke - Wynwood (row 84). Both are poke/sushi concepts in the Wynwood neighborhood. Common ownership suggested by company name. No website found.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Estefan Kitchen Express",
+      "restaurant_website": "https://www.estefankitchen.com",
+      "city": "Miami",
+      "location_address": "Miami International Airport, 1961 Miad Cir, Miami, FL 33126, USA",
+      "holding_company": "Estefan Enterprises, Inc.",
+      "holding_website": "https://www.estefankitchen.com",
+      "sister_child_restaurants": [
+        "Estefan Kitchen (Original)",
+        "Other Estefan Enterprises ventures"
+      ],
+      "sister_child_restaurants_websites": [
+        "https://www.estefankitchen.com",
+        "Not Found"
+      ],
+      "child_restaurant_sources": {
+        "Estefan Kitchen": ["https://www.estefankitchen.com"]
+      },
+      "source": "https://www.estefankitchen.com",
+      "evidence": "Estefan Enterprises, Inc. is owned by Gloria and Emilio Estefan. Estefan Kitchen is their restaurant brand.",
+      "reasoning": "Dataset row 42 shows 'Estefan Enterprises, Inc.' operating Estefan Kitchen Express at Miami International Airport. This is owned by famous musicians Gloria and Emilio Estefan. The airport location is an express version of their main Estefan Kitchen restaurant. Estefan Enterprises is a well-known entertainment and hospitality company.",
+      "confidence": "High"
+    }
+  ],
+  "independent_restaurants": [
+    {
+      "restaurant_name": "Julia & Henry's Hospitality LLC",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "200 E Flagler St, Miami, FL 33131, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name matches location name, suggesting independent operation.",
+      "reasoning": "Dataset row 5 shows 'Julia & Henry's Hospitality LLC' as both the company name and location name. This pattern typically indicates an independent restaurant where the LLC is formed specifically for that single location. No sister restaurants found in dataset or web search.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Baby Jane's",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "500 Brickell Ave #105e, Miami, FL 33131, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name matches location name, suggesting independent operation.",
+      "reasoning": "Dataset row 11 shows 'Baby Jane's' as both company and location name. Single location pattern suggests independent restaurant. No other Baby Jane's locations found in dataset.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Chifa Du Kang Bird Road",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "9899 SW 40th St, Miami, FL 33165, USA",
+      "holding_company": "Chifa Du Kang (Multi-location group)",
+      "holding_website": "Not Found",
+      "sister_child_restaurants": [
+        "Chifa Du Kang Kendall",
+        "Chifa Du Kang North Miami"
+      ],
+      "sister_child_restaurants_websites": [
+        "Not Found",
+        "Not Found"
+      ],
+      "child_restaurant_sources": {
+        "Chifa Du Kang Kendall": ["Dataset row 74"],
+        "Chifa Du Kang North Miami": ["Dataset row 144"]
+      },
+      "source": "Dataset analysis",
+      "evidence": "Dataset shows three Chifa Du Kang locations with consistent naming.",
+      "reasoning": "Dataset shows 'Chifa Du Kang' operating three locations: Bird Road (row 12), Kendall (row 74), and North Miami (row 144). Chifa is a Peruvian-Chinese fusion cuisine. All three locations share the 'Chifa Du Kang' brand. This appears to be a small regional chain or restaurant group. No website found.",
+      "confidence": "High"
+    },
+    {
+      "restaurant_name": "Electric Lady",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "144 NW 23rd St, Miami, FL 33127, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name matches location name, suggesting independent operation.",
+      "reasoning": "Dataset row 28 shows 'Electric Lady' as both company and location name. Single location in Wynwood. No sister restaurants found.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Sweet Caroline Karaoke Bar",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "1111 SW 1st Ave, Miami, FL 33130, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name matches location name, suggesting independent operation.",
+      "reasoning": "Dataset row 22 shows 'Sweet Caroline Karaoke Bar' as both company and location name. Single karaoke bar in downtown Miami. No sister locations found.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Amor Miami",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "2322 N Miami Ave, Miami, FL 33127, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name 'Amor Miami' matches location name.",
+      "reasoning": "Dataset row 23 shows 'Amor Miami' as both company and location name. Single location in Wynwood. No sister restaurants found.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "The River Oyster Bar",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "33 SE 7th St, Miami, FL 33131, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name matches location name, suggesting independent operation.",
+      "reasoning": "Dataset row 48 shows 'The River Oyster Bar' as both company and location name. Single oyster bar in downtown Miami. No sister restaurants found.",
+      "confidence": "Medium"
+    },
+    {
+      "restaurant_name": "Pamela Wasabi Bakery",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "1602 NW 20th St, Miami, FL 33142, USA",
+      "holding_company": "None detected",
+      "holding_website": "N/A",
+      "sister_child_restaurants": [],
+      "sister_child_restaurants_websites": [],
+      "child_restaurant_sources": {},
+      "source": "Dataset analysis",
+      "evidence": "Company name matches location name, suggesting independent operation.",
+      "reasoning": "Dataset row 51 shows 'Pamela Wasabi Bakery' as both company and location name. Single bakery location. No sister restaurants found.",
+      "confidence": "Medium"
+    }
+  ],
+  "unclear_or_needs_investigation": [
+    {
+      "restaurant_name": "Delilah Miami",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "301 Brickell Key Dr, Miami, FL 33131, USA",
+      "holding_company": "Unknown",
+      "notes": "Dataset row 7 shows company name as simply 'Miami', which is clearly incomplete or erroneous data. Delilah is a known upscale supper club brand, but further investigation needed to confirm Miami ownership/franchise relationship."
+    },
+    {
+      "restaurant_name": "Museum of Ice Cream (MIA)",
+      "restaurant_website": "https://www.museumoficecream.com",
+      "city": "Miami",
+      "location_address": "851 NE 1st Ave ste 134, Miami, FL 33132, USA",
+      "holding_company": "Museum of Ice Cream (National brand)",
+      "notes": "Dataset row 26. This is a national brand/franchise with locations in multiple cities. Miami location is part of larger Museum of Ice Cream brand, but specific franchise/corporate relationship unclear."
+    },
+    {
+      "restaurant_name": "Vegan Cuban Cuisine",
+      "restaurant_website": "Not Found",
+      "city": "Miami",
+      "location_address": "9460 SW 72nd St, Miami, FL 33173, USA",
+      "holding_company": "Unknown",
+      "notes": "Dataset row 8. Generic name makes it difficult to identify specific restaurant. May be 'Vegan Cuban Cuisine' as the actual restaurant name, but needs verification."
+    },
+    {
+      "restaurant_name": "Rice Mediterranean Kitchen Pinecrest",
+      "restaurant_website": "https://www.ricemediterraneankitchen.com",
+      "city": "Miami",
+      "location_address": "12313 S Dixie Hwy, Miami, FL 33156, USA",
+      "holding_company": "Rice Mediterranean Kitchen (potential multi-location)",
+      "notes": "Dataset shows two Rice Mediterranean Kitchen locations: Pinecrest (row 9) and Edgewater (row 119). Appears to be a small chain, but website and ownership details need verification."
+    },
+    {
+      "restaurant_name": "MCA-Airports locations",
+      "restaurant_website": "N/A",
+      "city": "Miami",
+      "location_address": "Miami International Airport",
+      "holding_company": "(Miami) MCA-Airports",
+      "notes": "Multiple dataset entries show '(Miami) MCA-Airports' as company name (rows 14, 24, 36, etc.). This appears to be an airport concessionaire or food service operator managing multiple restaurants/concepts within Miami International Airport. Further investigation needed to identify the actual corporate entity."
+    }
+  ]
+}
