@@ -6,6 +6,58 @@
 
 ---
 
+## ⚠️ IMPORTANT CAVEATS & LIMITATIONS
+
+### Data Limitations:
+
+1. **Your Dataset = Complete Picture of Active Customers**
+   - Dataset shows 267 active 7shifts customer locations
+   - Analysis assumes this represents ALL your Miami customers
+   - ❓ **Caveat:** If you have customers NOT in this dataset, counts would be different
+
+2. **Web Research Data Currency**
+   - Location counts for groups (e.g., "30+ Sushi Sake locations") are from web searches conducted Nov 25, 2024
+   - Restaurant group websites may not be current
+   - Some websites don't list all locations
+   - ❓ **Caveat:** Actual location counts may differ from what's published online
+
+3. **SKINNY LOUIE Expansion Timeline UNCERTAIN**
+   - Multiple articles mention expansion plans (Coral Gables, Aventura, West Palm, etc.)
+   - Articles found show future dates (2025) but publication dates unclear
+   - Cannot confirm which locations are actually under construction vs planned vs already open
+   - ❓ **Caveat:** "10+ locations opening" claim is based on uncorroborated web articles
+   - ✅ **Action Required:** Call SKINNY LOUIE directly to confirm current expansion status
+
+4. **White Space Calculations Are Estimates**
+   - "38-48 white space locations" assumes web-researched location counts are accurate
+   - Does not account for:
+     - Closed locations not yet removed from websites
+     - Franchise vs corporate ownership differences
+     - Locations that may already be 7shifts customers but not in this dataset
+   - ❓ **Caveat:** True white space may be higher or lower
+
+5. **Penetration Percentages Based on Public Information**
+   - Example: "Sushi Sake Corporate: 43% penetration (13 of 30+)"
+   - "30+" is from their website's locations page
+   - May include franchises, ghost kitchens, or closed locations
+   - ❓ **Caveat:** Actual penetration percentage could vary
+
+6. **Multi-Market Expansion Not Verified**
+   - Claims about groups expanding to Dallas, Las Vegas, NYC based on web articles
+   - Timeline and actual opening dates not confirmed
+   - ❓ **Caveat:** Expansion plans may have changed or been delayed
+
+### Recommendations for Data Validation:
+
+**Before acting on this analysis:**
+1. ✅ **Call restaurant groups directly** to confirm total location counts
+2. ✅ **Verify expansion timelines** with direct contacts (especially SKINNY LOUIE)
+3. ✅ **Cross-reference your internal CRM** to ensure dataset completeness
+4. ✅ **Check for franchise relationships** (some "group" locations may be independent franchises)
+5. ✅ **Validate white space** isn't already served by regional/enterprise agreements
+
+---
+
 ## Executive Summary
 
 ### Your Current Position: STRONG! 🎯
@@ -263,17 +315,25 @@
 
 **1. Account Review: Sushi Sake Corporate**
 - You have: 13 locations
-- They have: 30+ total
-- **Action:** Schedule meeting with corporate to discuss full rollout
+- They have: 30+ total (per their website - **verify actual count**)
+- ⚠️ **Caveat:** May include franchised locations or closed locations still on website
+- **Action:**
+  1. Verify actual total location count with corporate contact
+  2. Confirm which locations are NOT yet 7shifts customers
+  3. Schedule meeting to discuss full rollout
 - **Pitch:** "Consistent workforce management across all locations"
-- **Value:** Currently only 43% penetrated - huge expansion opportunity
+- **Value:** Potentially 43% penetrated - expansion opportunity if gap confirmed
 
 **2. Account Review: Ariete Hospitality Group**
-- You have: 3 concepts
-- They have: 10+ concepts
-- **Action:** Meet with operations team / Michael Beltran's group
+- You have: 3 concepts (Ariete, Chug's Diner, Brasserie Laurel)
+- They have: 10+ concepts (per web research - **verify actual count**)
+- ⚠️ **Caveat:** Additional concepts identified via web search - some may not be open yet or may already be customers
+- **Action:**
+  1. Verify complete list of operating concepts with their team
+  2. Confirm which are NOT 7shifts customers
+  3. Meet with operations team / Michael Beltran's group
 - **Pitch:** "You trust us with Ariete and Chug's - let's expand to all concepts"
-- **Value:** Only 30% penetrated - 7+ additional concepts available
+- **Value:** Potentially 30% penetrated - expansion opportunity if gap confirmed
 
 **3. Account Review: Groot Hospitality**
 - You have: 2 venues
@@ -283,9 +343,10 @@
 - **Value:** Only 20% penetrated - 8+ venues including major nightclubs
 
 **4. Proactive Expansion: SKINNY LOUIE** 🔥
-- **URGENT:** They're opening 10+ locations in 2025
-- **Action:** Proactive outreach to ensure 7shifts at all new locations
-- **Risk:** If you don't lock this in, they might evaluate competitors for new locations
+- ⚠️ **CAVEAT:** Expansion timeline based on web articles with uncertain publication dates
+- **Action:** **FIRST - Call to verify expansion plans and timeline**
+- **Then:** If expansion confirmed, proactive outreach to ensure 7shifts at all new locations
+- **Risk:** If they are expanding and you don't lock it in, they might evaluate competitors
 
 ### Short-Term (This Month)
 
