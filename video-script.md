@@ -19,6 +19,8 @@
 **Script:**
 "Here's what I did: I analyzed each restaurant's website, social media, and public records to identify parent companies and sister restaurants. I looked for corporate structures, shared ownership, and multi-location operations.
 
+Important note on data security: For any analysis involving PII data, we use Gemini CLI to ensure compliance with our security policies. If you're ever uncertain whether data qualifies as PII, reach out to the security team first.
+
 The goal was simple: understand our market penetration within existing customers and find white space opportunities where we already have a foot in the door."
 
 ---
@@ -108,6 +110,12 @@ Happy to answer any questions and share the detailed analysis with anyone who wa
 ---
 
 ## PRODUCTION NOTES:
+
+### ⚠️ DATA SECURITY REQUIREMENTS:
+- **IMPORTANT: Use Gemini CLI for any analysis involving PII data**
+- If you're uncertain whether data contains PII, consult the security team before proceeding
+- This analysis used publicly available data (restaurant names, websites, public records)
+- Any future analysis with customer contact info, employee data, or sensitive business info must use Gemini CLI
 
 ### Visuals to Prepare:
 1. Title slide with analysis name
