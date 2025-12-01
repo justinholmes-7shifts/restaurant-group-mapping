@@ -1,0 +1,349 @@
+[
+  {
+    "restaurant_name": "LA Chews",
+    "restaurant_website": "http://www.lachews.com/",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Website was inaccessible (connection refused). Dataset shows 5 duplicate entries of LA Chews, suggesting multi-location single-brand operation. Unable to verify parent company or sister concepts due to website access issues. Further research needed.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Restaurant 356",
+    "restaurant_website": "https://www.opentable.com/restaurant-356",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.opentable.com/restaurant-356",
+    "evidence": "OpenTable listing only, no official website found",
+    "reasoning": "The URL provided is an OpenTable reservation page, not the restaurant's official website. Unable to locate official website through search. OpenTable listings do not typically contain parent company or ownership information. Unable to verify restaurant group affiliation.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Golden Krust Caribbean Restaurant",
+    "restaurant_website": "https://locations.goldenkrust.com/ll/US/GA/Atlanta/3620-Camp-Creek-Parkway",
+    "city": "Atlanta",
+    "holding_company": "Golden Krust (franchise)",
+    "holding_website": "https://www.goldenkrust.com",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.goldenkrust.com",
+    "evidence": "Golden Krust is a Caribbean restaurant chain with franchise locations. This is an independently owned franchise location.",
+    "reasoning": "URL points to a franchise location page. Golden Krust is a well-known Caribbean restaurant franchise chain. Individual franchise locations are independently owned and operated, so no sister restaurants are listed. This represents a franchise relationship rather than corporate group ownership.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Concorde Grill",
+    "restaurant_website": "https://www.marriott.com/en-us/dining/restaurant-bar/atlsa-renaissance-concourse-atlanta-airport-hotel/126555-concorde-grill.mi",
+    "city": "Atlanta",
+    "holding_company": "Columbia Sussex (hotel owner/operator)",
+    "holding_website": "https://www.columbiasussex.com",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.columbiasussex.com/properties/renaissance-concourse-atlanta/",
+    "evidence": "Concorde Grill is the hotel restaurant at Renaissance Concourse Atlanta Airport Hotel. The hotel is owned/operated by Columbia Sussex.",
+    "reasoning": "This is a hotel restaurant, not an independent restaurant group. Columbia Sussex owns the Renaissance Concourse Atlanta Airport Hotel which houses Concorde Grill. While Columbia Sussex operates multiple hotels, hotel restaurants are typically considered part of the hotel operation rather than a restaurant group. No sister restaurant concepts identified.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Buenos Dias Pupusas",
+    "restaurant_website": "http://www.buenosdiascafe.com/",
+    "city": "Atlanta",
+    "holding_company": "Kosher Guacamole Corp.",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "La Bodega Market & Pupuseria"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "La Bodega Market & Pupuseria": ["https://www.linkedin.com/in/ken-katz-1b1b898/", "https://www.ajc.com/things-to-do/atlanta-restaurant-blog/atlanta-orders-in-buenos-dias-cafe-owners-offer-a-pupusa-walk-up-window/"]
+    },
+    "source": "https://www.linkedin.com/in/ken-katz-1b1b898/",
+    "evidence": "Ken Katz's LinkedIn profile states: 'Parent Corporation for Buenos Dias Pupusas, La Bodega.' Owned by husband and wife team Ken and Jeannette Katz, established 2012.",
+    "reasoning": "Web search found LinkedIn profile for Ken Katz (CFO and co-owner) which explicitly states Kosher Guacamole Corp is the parent corporation for both Buenos Dias Pupusas and La Bodega. Multiple sources (AJC, LinkedIn) confirm the Katz family operates both concepts. La Bodega is relocating to Sylvan Hills as of 2024.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Something Special Restaurant",
+    "restaurant_website": "https://www.facebook.com/SomethingSpecial",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.facebook.com/SomethingSpecial",
+    "evidence": "N/A",
+    "reasoning": "Only has Facebook page, no official website. Search results provided reviews and location info (1665 Jonesboro Rd SE) but no ownership or parent company information. Facebook page does not mention restaurant group affiliation. Appears to be independent operation but unable to verify with high confidence.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Hungry AF Greenbriar",
+    "restaurant_website": "https://thehungryaf.com/",
+    "city": "Atlanta",
+    "holding_company": "Hungry AF (multi-location brand)",
+    "holding_website": "https://thehungryaf.com/",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://whatnow.com/atlanta/restaurants/hungry-af-cooking-up-new-locations/",
+    "evidence": "Hungry AF has 8+ locations including Stonecrest, Conyers, Decatur, Smyrna, Kennesaw, and multiple Atlanta locations. Chef Kodak Harris is part of the ownership team.",
+    "reasoning": "Website was blocked from direct access. Web search revealed Hungry AF is a rapidly expanding brand with 8+ locations across metro Atlanta. This is a multi-location brand rather than a multi-concept restaurant group. No other sister restaurant concepts identified, though Chef Kodak Harris is opening Kodak Smoothies and Koffee as a separate concept.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Love at First Bite ATL Brunch",
+    "restaurant_website": "https://loveatfirstbiteatl.com/",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://loveatfirstbiteatl.com/",
+    "evidence": "Owned by Camilah Campbell, operates as brunch restaurant and food truck",
+    "reasoning": "Web search found owner information (Camilah Campbell) and location (1800 Jonesboro Rd SE, Lakewood). No sister restaurants or restaurant group mentioned. Operates both a restaurant location and food truck for catering. Appears to be independent, single-concept operation.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Flour + Time Bakery",
+    "restaurant_website": "http://www.flourandtimebakery.com/",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.ajc.com/things-to-do/atlanta-restaurant-blog/flour-time-opens-in-west-midtown-for-vegan-pastries-and-coffee-drinks/",
+    "evidence": "Owned by husband and wife Michael and Leah Bajalia, started in 2020 from their home kitchen after losing jobs",
+    "reasoning": "Web search found detailed ownership info. Michael (Culinary School of America grad, certified sommelier) and Leah (vocal performance major, professional actor/singer) started the vegan bakery in 2020. Sold from home, then farmers markets, then opened brick and mortar at 1133 Huff Road. No mention of sister restaurants or group affiliation. Clear independent operation.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Twisted Soul Cookhouse & Pours",
+    "restaurant_website": "https://www.twistedsoulatl.com/",
+    "city": "Atlanta",
+    "holding_company": "VanTrece Hospitality Group",
+    "holding_website": "https://www.vantrecehospitality.com/",
+    "sister_child_restaurants": [
+      "Oreatha's at The Point"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.oreathas.com/"
+    ],
+    "child_restaurant_sources": {
+      "Oreatha's at The Point": ["https://www.vantrecehospitality.com/about", "https://www.oreathas.com/"]
+    },
+    "source": "https://www.vantrecehospitality.com/about",
+    "evidence": "Chef Deborah VanTrece owns both Twisted Soul Cookhouse & Pours and Oreatha's at The Point through VanTrece Hospitality Group, a family-owned company based in Atlanta",
+    "reasoning": "Website was blocked from direct access, so used web search to find ownership information. Multiple credible sources (Nation's Restaurant News, What Now Atlanta, AJC) confirm VanTrece Hospitality Group operates both restaurants. The corporate website at vantrecehospitality.com lists both restaurants. Previously operated La Panarda (closed 2024).",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Oreatha's At The Point",
+    "restaurant_website": "https://www.oreathas.com/",
+    "city": "Atlanta",
+    "holding_company": "VanTrece Hospitality Group",
+    "holding_website": "https://www.vantrecehospitality.com/",
+    "sister_child_restaurants": [
+      "Twisted Soul Cookhouse & Pours"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.twistedsoulatl.com/"
+    ],
+    "child_restaurant_sources": {
+      "Twisted Soul Cookhouse & Pours": ["https://www.vantrecehospitality.com/about", "https://www.twistedsoulatl.com/"]
+    },
+    "source": "https://www.vantrecehospitality.com/about",
+    "evidence": "Chef Deborah VanTrece owns both Twisted Soul Cookhouse & Pours and Oreatha's at The Point through VanTrece Hospitality Group",
+    "reasoning": "Multiple sources confirm VanTrece Hospitality Group ownership. Oreatha's website and corporate site both reference Chef Deborah VanTrece as owner. The restaurants share the same corporate parent and ownership structure.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Krave",
+    "restaurant_website": "http://kraveatl.com/",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.theinfatuation.com/atlanta/reviews/krave",
+    "evidence": "Owned by Noah Kim, fast-casual Korean restaurant at 1170 Collier Road",
+    "reasoning": "Web search found owner Noah Kim. Single location at 1170 Collier Rd. No mention of sister restaurants or multi-location operations. Appears to be independent, single-location Korean concept. No restaurant group affiliation found.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Bacchanalia",
+    "restaurant_website": "http://www.starprovisions.com/bacchanalia/",
+    "city": "Atlanta",
+    "holding_company": "Eat Out Often, Inc.",
+    "holding_website": "https://www.starprovisions.com",
+    "sister_child_restaurants": [
+      "Star Provisions Market & Cafe",
+      "W.H. Stiles Fish Camp"
+    ],
+    "sister_child_restaurants_websites": [
+      "http://www.starprovisions.com/",
+      "http://www.starprovisions.com/whstilesfishcamp/"
+    ],
+    "child_restaurant_sources": {
+      "Star Provisions Market & Cafe": ["https://www.starprovisions.com/", "https://www.starprovisions.com/star-provisions/"],
+      "W.H. Stiles Fish Camp": ["https://www.starprovisions.com/", "https://www.starprovisions.com/whstilesfishcamp/"]
+    },
+    "source": "https://www.starprovisions.com",
+    "evidence": "All three establishments share contact email aquatrano@eatoutoften.net, common ownership by Chefs Anne Quatrano and Clifford Harrison, shared location at 1460 Ellsworth Industrial Boulevard, Atlanta, GA 30318, unified phone 404.365.0410",
+    "reasoning": "Checked the Star Provisions website which serves as the corporate site for all three restaurant concepts. The website navigation explicitly links to all three restaurants. Contact information, ownership, and location are shared across all concepts. The email domain 'eatoutoften.net' confirms the corporate entity name.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "the Woodall",
+    "restaurant_website": "https://thewoodallwestside.com/",
+    "city": "Atlanta",
+    "holding_company": "Metz Corp (likely)",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://thewoodallwestside.com/",
+    "evidence": "Contact email uses metzcorp.com domain, led by Chef John C. Metz, single location operation",
+    "reasoning": "Checked the website directly. The email domain 'metzcorp.com' suggests Chef Metz may operate through a corporate entity, but no sister restaurants are mentioned on the website. Navigation, footer, and about sections all point to a standalone operation. No locations page or mention of other restaurants. Classified as independent operation.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Bone Garden Cantina",
+    "restaurant_website": "https://www.bonegardencantina.com/",
+    "city": "Atlanta",
+    "holding_company": "None detected (formerly owned The Vortex, sold 2024)",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://bonegardencantina.com/about/",
+    "evidence": "Owned by Michael and Kristen Benoit since 2008. Michael has 20+ years restaurant experience, opened The Vortex in 1992. Bone Garden Cantina was NOT included when The Vortex was sold to Taco Mac owners in 2024.",
+    "reasoning": "Web search found detailed ownership. Michael Benoit owned The Vortex Bar & Grill (opened 1992), which was sold in 2024, but Bone Garden Cantina (opened 2008) and Laughing Skull Lounge comedy club were explicitly NOT part of the sale. Now operates Bone Garden independently at 1425 Ellsworth Industrial Blvd. No other current sister restaurants identified.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Boxcar at Hop City West End",
+    "restaurant_website": "https://www.boxcaratl.com/",
+    "city": "Atlanta",
+    "holding_company": "Hop City / Kraig Torres",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Hop City Craft Beer & Wine - West End",
+      "Hop City - Krog St Market",
+      "Hop City - Fayetteville GA",
+      "Hop City - Birmingham AL",
+      "Barleygarden Kitchen & Craft Bar - Alpharetta",
+      "Barleygarden Kitchen & Craft Bar - Fayetteville"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Hop City Craft Beer & Wine - West End": ["https://www.atlantamagazine.com/dining-news/new-from-the-hop-city-team-boxcar-restaurant-promises-1000-beers-and-800-wines/"],
+      "Hop City - Krog St Market": ["https://www.ajc.com/blog/atlanta-restaurants/first-look-eat-drink-and-shop-new-boxcar-west-end/"],
+      "Barleygarden Kitchen & Craft Bar - Alpharetta": ["https://whatnowatlanta.com/boxcar-at-hop-city-lee-white/"],
+      "Barleygarden Kitchen & Craft Bar - Fayetteville": ["https://whatnowatlanta.com/boxcar-at-hop-city-lee-white/"]
+    },
+    "source": "https://www.boxcaratl.com/about",
+    "evidence": "Owner Kraig Torres opened Boxcar March 1, 2019 with the Hop City team. Hop City first opened in West Midtown in 2009. The group operates Hop City locations and Barleygarden Kitchen & Craft Bar locations.",
+    "reasoning": "Web search found extensive information about the Hop City group. Owner Kraig Torres has operated Hop City since 2009 and expanded to multiple concepts including Barleygarden Kitchen and Boxcar. Multiple locations across Atlanta metro, Georgia, and Alabama. This is a clear multi-concept hospitality group.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Desta Ethiopian Kitchen Westside",
+    "restaurant_website": "https://destaethiopiankitchen.com/destawestside",
+    "city": "Atlanta",
+    "holding_company": "Desta Ethiopian Kitchen, Inc.",
+    "holding_website": "https://destaethiopiankitchen.com/",
+    "sister_child_restaurants": [
+      "Desta Ethiopian Kitchen - Briarcliff"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://destaethiopiankitchen.com/atlanta-desta-ethiopian-kitchen-briarcliff"
+    ],
+    "child_restaurant_sources": {
+      "Desta Ethiopian Kitchen - Briarcliff": ["https://destaethiopiankitchen.com/", "https://whatnowatlanta.com/desta-ethiopian-kitchen-quietly-opens-westside-village-restaurant/"]
+    },
+    "source": "https://destaethiopiankitchen.com/",
+    "evidence": "Co-owners Titi Demissie and Ash Nega, married couple who launched Desta in July 2006. Operates two Atlanta locations: Briarcliff (2566 Briarcliff Rd) and Westside Village (2250 Marietta Blvd NW).",
+    "reasoning": "Web search found ownership info and multiple locations. The corporate website lists both locations. Desta Ethiopian Kitchen, Inc. owns the trademarked name. Original location opened 2006 in Williamsburg Village, now has two locations. Clear multi-location operation under single ownership.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Midtown Social Restaurant & Bar",
+    "restaurant_website": "https://www.midtownsocialatl.com/",
+    "city": "Atlanta",
+    "holding_company": "DABS Hospitality Consulting Group Inc.",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Milk and Honey Atlanta",
+      "Just Chicken (co-ownership)"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Milk and Honey Atlanta": ["https://www.businessdebut.com/atlantan-restaurateur-opening-midtown-social-in-west-midtown/"],
+      "Just Chicken (co-ownership)": ["https://www.businessdebut.com/atlantan-restaurateur-opening-midtown-social-in-west-midtown/"]
+    },
+    "source": "https://www.businessdebut.com/atlantan-restaurateur-opening-midtown-social-in-west-midtown/",
+    "evidence": "Owner Devon Green also owns Milk and Honey Atlanta and is co-owner of Just Chicken fast-food franchise. Operating entity is DABS Hospitality Consulting Group Inc.",
+    "reasoning": "Web search found owner Devon Green operates multiple concepts through DABS Hospitality Consulting Group Inc. Midtown Social located at 1740 Marietta Blvd NW. Sister restaurants include Milk and Honey Atlanta (same owner) and Just Chicken (co-ownership). Multi-concept operator confirmed.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Chicheria Mexican Kitchen",
+    "restaurant_website": "https://www.chicheriamx.com/",
+    "city": "Atlanta",
+    "holding_company": "TQM Hospitality",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Buena Vida Tapas"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Buena Vida Tapas": ["https://www.chicheriamx.com/about", "https://www.chicheriamx.com/groups"]
+    },
+    "source": "https://www.chicheriamx.com/about",
+    "evidence": "Group events handled by TQM Hospitality (events@tqmhospitality.com). From the creators of Buena Vida Tapas. Led by Chef Joey Vazquez, created by Bravo's Top Chef alum Whitney Otawka and Executive Chef Juan Hormiga.",
+    "reasoning": "Website checked via web search. Group dining page lists TQM Hospitality contact. About page mentions 'from the creators of Buena Vida Tapas' indicating same ownership group. Located at The Works, 202 Chattahoochee Row. Clear restaurant group operation with at least two concepts.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Pera Bistro",
+    "restaurant_website": "http://www.peraatlanta.com/",
+    "city": "Atlanta",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://whatnow.com/atlanta/restaurants/pera-bistro-will-bring-a-fusion-of-three-different-cuisines-to-atlanta/",
+    "evidence": "Owned by restaurateur Okan Ozyurteri, Mediterranean fusion at 1193 Collier Rd NW",
+    "reasoning": "Web search found owner Okan Ozyurteri. Single location offering Turkish, Italian, Greek and Lebanese cuisines. Planning expansion of current location for private events but no other restaurant locations mentioned. No restaurant group affiliation found. Independent operation.",
+    "confidence": "High"
+  }
+]

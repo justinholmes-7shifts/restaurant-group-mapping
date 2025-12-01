@@ -1,0 +1,677 @@
+[
+  {
+    "restaurant_name": "LA Chews",
+    "restaurant_website": "http://www.lachews.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Restaurant 356",
+    "restaurant_website": "https://www.opentable.com/restaurant-356?corrid=ede1dfa8-39af-480f-b48f-cfb24dc31a3f&p=2&sd=2025-04-24T19%3A00%3A00",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Golden Krust Caribbean Restaurant",
+    "restaurant_website": "https://locations.goldenkrust.com/ll/US/GA/Atlanta/3620-Camp-Creek-Parkway",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Concorde Grill",
+    "restaurant_website": "https://www.marriott.com/en-us/dining/restaurant-bar/atlsa-renaissance-concourse-atlanta-airport-hotel/126555-concorde-grill.mi",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Buenos Dias Pupusas",
+    "restaurant_website": "http://www.buenosdiascafe.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Something Special Restaurant",
+    "restaurant_website": "https://www.facebook.com/SomethingSpecial",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Hungry AF Greenbriar",
+    "restaurant_website": "https://thehungryaf.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Love at First Bite ATL Brunch",
+    "restaurant_website": "https://loveatfirstbiteatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Flour + Time Bakery",
+    "restaurant_website": "http://www.flourandtimebakery.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Twisted Soul Cookhouse & Pours",
+    "restaurant_website": "https://www.twistedsoulatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Oreatha's At The Point",
+    "restaurant_website": "https://www.oreathas.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Krave",
+    "restaurant_website": "http://kraveatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Bacchanalia",
+    "restaurant_website": "http://www.starprovisions.com/bacchanalia/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "the Woodall",
+    "restaurant_website": "https://thewoodallwestside.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Bone Garden Cantina",
+    "restaurant_website": "https://www.bonegardencantina.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Boxcar at Hop City West End",
+    "restaurant_website": "https://www.boxcaratl.com/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Desta Ethiopian Kitchen Westside",
+    "restaurant_website": "https://destaethiopiankitchen.com/destawestside?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Midtown Social Restaurant & Bar",
+    "restaurant_website": "https://www.midtownsocialatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Chicheria Mexican Kitchen",
+    "restaurant_website": "https://www.chicheriamx.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Pera Bistro",
+    "restaurant_website": "http://www.peraatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Star Provisions Market & Cafe",
+    "restaurant_website": "http://www.starprovisions.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Agavero Cantina - West Midtown",
+    "restaurant_website": "http://www.agaverocantina.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Nuevo Laredo Cantina",
+    "restaurant_website": "https://www.nuevolaredocantina.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The Corner Grille Upper Westside",
+    "restaurant_website": "http://www.tcgrestaurants.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "By George restaurant and bar",
+    "restaurant_website": "https://www.bygeorgeatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Flavor Rich Restaurant Atlanta",
+    "restaurant_website": "http://atlanta.flavorrichrestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Utopia Restaurant at the Underground Atlanta",
+    "restaurant_website": "https://utopialoungeatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Aviva by Kameel Midtown",
+    "restaurant_website": "https://www.avivabykameel.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Fin & Feathers Restaurants",
+    "restaurant_website": "http://finandfeathersrestaurants.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Lyla Lila",
+    "restaurant_website": "https://www.lylalilaatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "White Oak",
+    "restaurant_website": "https://www.whiteoakkitchen.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Vurritos Locos",
+    "restaurant_website": "http://www.vurritoslocos.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The Sun Dial Restaurant, Bar & View",
+    "restaurant_website": "https://www.sundialrestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "El Vi\u00f1edo Local",
+    "restaurant_website": "https://www.elvinedolocal.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The Optimist",
+    "restaurant_website": "https://www.theoptimistrestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "a mano",
+    "restaurant_website": "https://www.amanoatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Cooks & Soldiers",
+    "restaurant_website": "http://cooksandsoldiers.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "South City Kitchen Midtown",
+    "restaurant_website": "https://www.southcitykitchen.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Alma Cocina",
+    "restaurant_website": "https://www.alma-atlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Home grown GA Restaurant",
+    "restaurant_website": "https://www.homegrownga.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Gigi's Italian Kitchen & Restaurant",
+    "restaurant_website": "http://gigisitaliankitchenatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Poor Calvin's",
+    "restaurant_website": "http://www.poorcalvins.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Little Bear",
+    "restaurant_website": "https://littlebearatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Staplehouse",
+    "restaurant_website": "http://staplehouse.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Agave Restaurant, Est. 2000",
+    "restaurant_website": "https://www.agaverestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Spice House Midtown",
+    "restaurant_website": "https://www.spicehouseatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Treehouse Restaurant and Pub",
+    "restaurant_website": "http://www.treehouseatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The Greedy Bunch",
+    "restaurant_website": "http://www.thegreedybunch.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Howell's Kitchen and Bar",
+    "restaurant_website": "http://howellskitchenbar.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Farm Grill at The Works",
+    "restaurant_website": "https://brand.page/farmgrill",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The Consulate Restaurant",
+    "restaurant_website": "http://www.theconsulateatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Catch In The City Restaurant and Bar",
+    "restaurant_website": "http://catchinthecity.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Hollywood ATL Restaurant & Lounge",
+    "restaurant_website": "https://www.thehollywoodatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Divan Restaurant & Bar",
+    "restaurant_website": "http://www.divanatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Pink Lotus Thai Restaurant",
+    "restaurant_website": "https://www.pinklotusthai.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Kenley's Catering And Restaurant",
+    "restaurant_website": "http://www.kenleysrestaurant.com/Welcome.tpl?action=nc&from=Top133",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Tuk Tuk Thai Food Loft",
+    "restaurant_website": "https://www.tuktukatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Gio\u2019s Chicken Amalfitano",
+    "restaurant_website": "https://littleitalia.com/#restaurants",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Food Terminal",
+    "restaurant_website": "https://www.foodterminal.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Folk Art Restaurant Inman Park",
+    "restaurant_website": "https://folkartrestaurant.com/folkartrestaurant-inmanpark?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Campagnolo Restaurant + Bar",
+    "restaurant_website": "http://www.campagnoloatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "PACO TACOS ATL",
+    "restaurant_website": "http://pacotacosatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Mediterranea Restaurant & Bakery",
+    "restaurant_website": "http://www.mediterraneaatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "1201 Restaurant",
+    "restaurant_website": "https://the1201restaurant.com/?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Paschal's Restaurant & Bar",
+    "restaurant_website": "https://www.paschalsatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Local Motives Restaurant",
+    "restaurant_website": "https://instagram.com/localmotivesatl?igshid=YmMyMTA2M2Y=",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "BUFFALO BAR",
+    "restaurant_website": "http://buffalobaratl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Margaritaville Restaurant - Atlanta",
+    "restaurant_website": "https://www.margaritavilleatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Flower Child Westside Provisions",
+    "restaurant_website": "https://www.iamaflowerchild.com/locations/atlanta-westside-provisions/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The Beautiful Restaurant",
+    "restaurant_website": "http://www.beautifulrestaurant-atlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "BrickStone Cafe & Restaurant",
+    "restaurant_website": "http://brickstonecafe.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Tyde Tate Kitchen",
+    "restaurant_website": "https://www.tydetatekitchen.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "FIGO Pasta Upper Westside/Buckhead",
+    "restaurant_website": "http://www.figopasta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Mushi Ni",
+    "restaurant_website": "https://www.mushini.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Yumbii @ Moores Mill",
+    "restaurant_website": "https://yumbii.com/yumbiimooresmill?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Ted's Montana Grill",
+    "restaurant_website": "https://www.tedsmontanagrill.com/tmg070.html",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Murphy's Restaurant",
+    "restaurant_website": "https://www.murphysatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Atkins Park Restaurant & Bar - Virginia Highland",
+    "restaurant_website": "https://www.atkinspark.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Embilta Cafe & Restaurant",
+    "restaurant_website": "https://www.facebook.com/pages/Embilta-Ethiopian-Cafe-Restaurant/439607806093457",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "George's Bar & Restaurant",
+    "restaurant_website": "http://georgesbarandrestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Sotto Sotto Restaurant",
+    "restaurant_website": "http://www.sottosottoatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Larry's Late Night Eats",
+    "restaurant_website": "https://www.larryslatenighteats.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "El Santo Gallo Taqueria",
+    "restaurant_website": "https://elsantogallotaco.com/?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "India Eats Restaurant",
+    "restaurant_website": "https://indiaeatsatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Bambinelli's Italian Restaurant",
+    "restaurant_website": "https://www.bambinellis.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "MCK Restaurant and Bar",
+    "restaurant_website": "http://mckatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Bones Restaurant",
+    "restaurant_website": "http://www.bonesrestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Aria",
+    "restaurant_website": "http://www.aria-atl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "THE CHASTAIN - Restaurant",
+    "restaurant_website": "http://www.thechastainatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Mali Restaurant",
+    "restaurant_website": "http://www.malirestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Nino's Italian Restaurant",
+    "restaurant_website": "https://ninosatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Bangkok Thai Restaurant",
+    "restaurant_website": "https://www.bangkokthaiatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "LLoyd's Restaurant & Lounge",
+    "restaurant_website": "https://www.lloydsatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Delilah's Everyday Soul - Chattahoochee Food Works",
+    "restaurant_website": "https://delilahseverydaysoul.com/delilahseverydaysoul-chattahoochee?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Velvet Taco",
+    "restaurant_website": "https://www.velvettaco.com/location/atlanta-interlock/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Chillz Restaurant and Bar",
+    "restaurant_website": "https://chillzrestaurantbar.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Afrodish Restaurant",
+    "restaurant_website": "http://www.afrodishrestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Plant Based Zo",
+    "restaurant_website": "https://plantbasedzo.com/?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Georgia Restaurant Association",
+    "restaurant_website": "http://www.garestaurants.org/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Marquis Restaurant and Lounge",
+    "restaurant_website": "https://marquisrestaurantandlounge.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Forrest Eatery",
+    "restaurant_website": "https://forresteatery.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "NaanStop",
+    "restaurant_website": "https://naanstop.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "POKE CITY",
+    "restaurant_website": "https://www.pokecity.net/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "The New Soul Veg Restaurant & Cafe'",
+    "restaurant_website": "https://thenewsoulveg.com/?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Continental Seafood",
+    "restaurant_website": "https://www.skiplinow.com/shop/-METe50UdKpJ-M8D71AO",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Taquer\u00eda\"Mami's",
+    "restaurant_website": "http://www.taqueriamamisatlantaga.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Piu Bello Buckhead",
+    "restaurant_website": "https://www.piubellobuckheadatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "El Azteca",
+    "restaurant_website": "http://www.elaztecaatlanta.com/buckhead",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Tuza Taco",
+    "restaurant_website": "https://www.tuzataco.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Taqueria Del Sol",
+    "restaurant_website": "http://www.taqueriadelsol.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Starfish Restaurant",
+    "restaurant_website": "https://www.order.store/store/starfish-restaurant/jy9JyUU6QfWDiMNUm81qtQ",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Lucky Star",
+    "restaurant_website": "https://www.luckystaratl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Q Time Restaurant",
+    "restaurant_website": "http://www.qtimesoulfood.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Fox Bros Bar-B-Q",
+    "restaurant_website": "https://www.foxbrosbbq.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Livingston Restaurant + Bar",
+    "restaurant_website": "http://www.livingstonatl.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Brown Bag Seafood Co.",
+    "restaurant_website": "https://www.brownbagseafood.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=westside-provisions-web",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Kale Me Crazy | Health Food Restaurant Midtown Atlanta",
+    "restaurant_website": "https://kalemecrazy.net/midtown-atlanta/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Your Pie Pizza",
+    "restaurant_website": "https://www.yourpie.com/locations/ga/atlanta/275-memorial-drive-se-suite-b1/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Torchy's Tacos",
+    "restaurant_website": "https://torchystacos.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Taqueria La Luz",
+    "restaurant_website": "https://www.taquerialaluz.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Goodfellas Pizza & Wings",
+    "restaurant_website": "https://tharealgoodfellas.com/?utm_source=google",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Lucky China 8 Chinese Restaurant",
+    "restaurant_website": "https://luckychina8chinesega.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Fellini's Pizza",
+    "restaurant_website": "http://www.fellinisatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Poke Burri",
+    "restaurant_website": "http://pokeburri.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "IKEA Restaurant",
+    "restaurant_website": "https://www.ikea.com/us/en/stores/atlanta/?utm_source=google&utm_medium=organic&utm_campaign=map_r&utm_content=atlanta",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "SriThai: Thai Kitchen and Sushi Bar (Atlantic Station)",
+    "restaurant_website": "http://www.srithaikitchen.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Taverna",
+    "restaurant_website": "https://www.tavernabylombardi.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Fia Restaurant",
+    "restaurant_website": "https://www.fiaatlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Antica Posta Tuscan Restaurant & Bar",
+    "restaurant_website": "http://www.anticaposta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Zakia Modern Lebanese Restaurant",
+    "restaurant_website": "https://www.zakiarestaurant.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Fork & Juniper Restaurant",
+    "restaurant_website": "https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm/dining",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Longleaf Restaurant",
+    "restaurant_website": "https://atlantabg.org/plan-your-visit/dining-at-the-garden/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Esco Restaurant & Tapas",
+    "restaurant_website": "http://www.escobaratlanta.com/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Kale Me Crazy | Health Food Restaurant Morningside",
+    "restaurant_website": "https://kalemecrazy.net/morningside/",
+    "city": "Atlanta"
+  },
+  {
+    "restaurant_name": "Chick-fil-A",
+    "restaurant_website": "https://www.chick-fil-a.com/locations/ga/delta-air-lines-headquarters?utm_source=yext&utm_medium=link",
+    "city": "Atlanta"
+  }
+]
